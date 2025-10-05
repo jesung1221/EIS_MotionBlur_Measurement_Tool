@@ -2,3 +2,7 @@ This project aims to measure the effectiveness of Electronic Image Stabilization
 
 ![EIS Fix measurement](https://github.com/user-attachments/assets/53a0cdfc-11b1-410d-9b96-11682b9294ef)
 <img width="1322" height="440" alt="Motion blur measurement" src="https://github.com/user-attachments/assets/6b295a12-c424-47d8-9810-3be32ff80377" />
+
+Software Output Example: S24U UW camera oscillation test
+
+<img width="2492" height="851" alt="software output" src="https://github.com/user-attachments/assets/68a9c961-db2a-48a7-b091-8cd869a7317d" />
